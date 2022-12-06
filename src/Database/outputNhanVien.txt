@@ -1,0 +1,11 @@
+***Bảo Vệ***
+2.Họ Tên: A - Mã số nhân viên: BV01 - CCCD: 123345678 - Giới Tính: Nam - Địa Chỉ: Quận 5 - Số điện thoại: 09000 - Lương = 5400000.0
+
+
+***Lao Công***
+3.Họ Tên: A - Mã số nhân viên: LC01 - CCCD: 123345678 - Giới Tính: Nam - Địa Chỉ: Quận 5 - Số điện thoại: 09000 - Lương = 5400000.0
+3.Họ Tên: B - Mã số nhân viên: LC02 - CCCD: 242314124 - Giới Tính: Nữ - Địa Chỉ: Quận 3 - Số điện thoại: 341241 - Lương = 5400000.0
+
+
+***Nhân Viên***
+2.Họ Tên: A - Mã số nhân viên: NV01 - CCCD: 123345678 - Giới Tính: Nam - Địa Chỉ: Quận 5 - Số điện thoại: 09000 - Lương = 5400000.0

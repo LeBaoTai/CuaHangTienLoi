@@ -1,0 +1,26 @@
+***Quầy Tươi Sống***
+1 .Tên sản phẩm: Tôm Sú - Mã sản phẩm: 001 - Xuất xứ: Việt Nam - Số lượng: 20 - Giá cả: 123000.0
+2 .Tên sản phẩm: Mực Ống - Mã sản phẩm: 002 - Xuất xứ: Việt Nam - Số lượng: 20 - Giá cả: 321000.0
+3 .Tên sản phẩm: Cá Ngừ - Mã sản phẩm: 003 - Xuất xứ: Việt Nam - Số lượng: 20 - Giá cả: 119000.0
+4 .Tên sản phẩm: Cua Hoàng Đế - Mã sản phẩm: 004 - Xuất xứ: Việt Nam - Số lượng: 10 - Giá cả: 789000.0
+
+
+***Quầy Gia Dụng***
+1 .Tên sản phẩm: Chảo - Mã sản phẩm: 001 - Xuất xứ: Việt Nam - Số lượng: 30 - Giá cả: 121500.0
+2 .Tên sản phẩm: Nồi - Mã sản phẩm: 002 - Xuất xứ: Việt Nam - Số lượng: 23 - Giá cả: 87500.0
+3 .Tên sản phẩm: Chén - Mã sản phẩm: 003 - Xuất xứ: Việt Nam - Số lượng: 53 - Giá cả: 54500.0
+4 .Tên sản phẩm: Đũa - Mã sản phẩm: 004 - Xuất xứ: Việt Nam - Số lượng: 60 - Giá cả: 23500.0
+
+
+***Quầy Nước***
+1 .Tên sản phẩm: Sting - Mã sản phẩm: 001 - Xuất xứ: Việt Nam - Số lượng: 30 - Giá cả: 11000.0
+2 .Tên sản phẩm: Cam ép - Mã sản phẩm: 002 - Xuất xứ: Việt Nam - Số lượng: 30 - Giá cả: 13000.0
+3 .Tên sản phẩm: Sữa Tươi - Mã sản phẩm: 003 - Xuất xứ: Việt Nam - Số lượng: 30 - Giá cả: 12000.0
+4 .Tên sản phẩm: Bia - Mã sản phẩm: 004 - Xuất xứ: Việt Nam - Số lượng: 30 - Giá cả: 16000.0
+
+
+***Quầy Khác***
+1 .Tên sản phẩm: Bánh xe - Ma San Pham: 001 - Xuất xứ: Việt Nam - Số lượng: 5 - Giá cả: 459000.0
+2 .Tên sản phẩm: Ruột xe - Ma San Pham: 002 - Xuất xứ: Việt Nam - Số lượng: 40 - Giá cả: 70000.0
+3 .Tên sản phẩm: Muối ớt - Ma San Pham: 003 - Xuất xứ: Việt Nam - Số lượng: 15 - Giá cả: 15000.0
+4 .Tên sản phẩm: IP 13 - Ma San Pham: 004 - Xuất xứ: Việt Nam - Số lượng: 2 - Giá cả: 1139000.0
